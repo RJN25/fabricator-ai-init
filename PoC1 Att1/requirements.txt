@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+ezdxf
+Pillow
+scikit-image
+matplotlib
+faiss-cpu
+python-dotenv
